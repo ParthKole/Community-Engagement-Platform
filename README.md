@@ -1,6 +1,6 @@
-# 🚀 TweetXTube — Full-Stack Social Video Platform
+# 🚀 Community Engagement Platform
 
-TweetXTube is a **full-stack social video platform** that combines video-sharing capabilities inspired by YouTube with social interaction features inspired by Twitter.
+Community Engagement Platform is a **full-stack social video platform** that combines video-sharing capabilities inspired by YouTube with social interaction features inspired by Twitter.
 
 The project focuses heavily on **backend architecture, RESTful API development, authentication, database relationships, media handling, and frontend-backend integration**, with an additional **Generative AI integration for AI-powered video summaries**.
 
